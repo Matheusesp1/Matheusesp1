@@ -8,9 +8,9 @@ Meus objetivos são 🎯:
 
 ➡️Front-end
 
-
-
 ➡️UI/UX
+
+➡️DADOS
 
 
 Porftolio ➡️ https://portifolio-espindola.vercel.app/
