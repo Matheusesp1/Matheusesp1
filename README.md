@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Espindola🖐️
 
-Desevolvedor Front End🖥️!
+Desevolvedor🖥️!
 
 
 Meus objetivos são 🎯:
