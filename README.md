@@ -6,7 +6,7 @@ Desevolvedor🖥️!
 Meus objetivos são 🎯:
 
 
-➡️Front-end
+➡️Full Stack
 
 ➡️UI/UX
 
