@@ -3,7 +3,7 @@
 Desevolvedor🖥️!
 
 
-Meus objetivos são 🎯:
+Minhas Skills são 🎯:
 
 
 ➡️Full Stack
