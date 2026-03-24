@@ -5,7 +5,7 @@
 ## 🔥 Sobre mim
 Desenvolvedor com experiência em sistemas web, APIs REST e projetos reais.
 
-## ⚙️ 🧠 Ferramentas & Tecnologias
+## ⚙️ Ferramentas & Tecnologias
 
 • JavaScript, TypeScript, C#, .NET;
 • React.js, Next.js;
