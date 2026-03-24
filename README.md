@@ -22,7 +22,7 @@ Desenvolvedor com experiência em sistemas web, APIs REST e projetos reais.
 ## 📫 Contato
 - LinkedIn:➡️ https://www.linkedin.com/in/matheus-espindola-454288202/
 - Portfólio:➡️ https://portifolio-espindola.vercel.app/
-- Emaail: ➡️ matheusespindola120@gmail.com
+- Email: ➡️ matheusespindola120@gmail.com
   
 *Sejam bem Vindos!*
 <!--
